@@ -3190,5 +3190,6 @@ channel.guild.owner.send(`<@!${channelremover.id}>
     message.channel.send(id)
 }       });
 
+\\hhhhhhhhhhhhhhhhhhh
 
 client.login(process.env.BOT_TOKEN);
